@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src\net\zehnkampf\empire\WarGame.java" />
+        <ignore path="src\net\zehnkampf\empire\view\WorldPreview.java" />
+        <ignore path="src\net\zehnkampf\empire\view\WorldView.java" />
+    </issue>
+</lint>
